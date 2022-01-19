@@ -1,0 +1,2 @@
+# seggsingBot
+Seggs
